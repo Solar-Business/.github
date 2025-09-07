@@ -7,6 +7,13 @@ Solar Business es una plataforma orientada a la gestión y proyección de soluci
 Además, integra un sistema de monitoreo remoto de consumo y generación mediante gateways conectados a inversores solares, garantizando la transmisión segura y confiable de datos en tiempo real.
 El despliegue de la solución se realiza en la nube de AWS, con alta disponibilidad, escalabilidad automática y servicios de soporte para garantizar rendimiento, seguridad y experiencia de usuario óptima.
 
+## Roadmap del sprint
+
+<a href="https://github.com/orgs/Solar-Business/projects/2">
+  <img src="https://img.shields.io/badge/Sprint-Roadmap-green"/>
+
+</a>
+
 ## Link de acta de reunion
 
 -  [ACTA 1 | 20 agosto 2025](https://docs.google.com/document/d/1l-FFlfC3MnyJuHP9edjqS0MlZKIGpHhVreaT1SQ3Yh0/edit?tab=t.u4qlr5qp4fby)
