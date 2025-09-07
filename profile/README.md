@@ -9,10 +9,10 @@ El despliegue de la solución se realiza en la nube de AWS, con alta disponibili
 
 ## Link de acta de reunion
 
--  [ACTA 1 20 agosto 2025](https://docs.google.com/document/d/1l-FFlfC3MnyJuHP9edjqS0MlZKIGpHhVreaT1SQ3Yh0/edit?tab=t.u4qlr5qp4fby)
-- [ACTA 2 27 de agosto 2025](https://docs.google.com/document/d/1l-FFlfC3MnyJuHP9edjqS0MlZKIGpHhVreaT1SQ3Yh0/edit?tab=t.speti09oo53q)
+-  [ACTA 1 | 20 agosto 2025](https://docs.google.com/document/d/1l-FFlfC3MnyJuHP9edjqS0MlZKIGpHhVreaT1SQ3Yh0/edit?tab=t.u4qlr5qp4fby)
+- [ACTA 2 | 27 de agosto 2025](https://docs.google.com/document/d/1l-FFlfC3MnyJuHP9edjqS0MlZKIGpHhVreaT1SQ3Yh0/edit?tab=t.speti09oo53q)
 
-- [ACTA 3 5 de septiembre 2025](https://docs.google.com/document/d/1l-FFlfC3MnyJuHP9edjqS0MlZKIGpHhVreaT1SQ3Yh0/edit?tab=t.qb6zy7k2ldcg)
+- [ACTA 3 | 5 de septiembre 2025](https://docs.google.com/document/d/1l-FFlfC3MnyJuHP9edjqS0MlZKIGpHhVreaT1SQ3Yh0/edit?tab=t.qb6zy7k2ldcg)
 
 ## Requerimientos
 
