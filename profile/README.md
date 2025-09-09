@@ -141,12 +141,13 @@ Despliegue en nube:
 - RNF18: El despliegue debe integrarse con un pipeline de CI/CD en AWS CodePipeline para automatizar actualizaciones y despliegues.
 
 
-## Diseño de solucion
 
 
 ## Documentos
 
-[Diapositiva Canva](https://www.canva.com/design/DAGvHs6IvIQ/nuhe8c2LY1PPWttU9W0XWQ/edit?utm_content=DAGvHs6IvIQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Diapositiva Canva](https://www.canva.com/design/DAGvHs6IvIQ/nuhe8c2LY1PPWttU9W0XWQ/edit?utm_content=DAGvHs6IvIQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+- [Diagramas Canva](https://www.canva.com/design/DAGyWsPGxuE/7MaLtgtAki10UQBc7ZxlTg/edit?utm_content=DAGyWsPGxuE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Grupo de trabajo - Roles
 > - Samuel Barona -  Developer
