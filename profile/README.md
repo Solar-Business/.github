@@ -21,6 +21,12 @@ El despliegue de la solución se realiza en la nube de AWS, con alta disponibili
 
 - [ACTA 3 | 5 de septiembre 2025](https://docs.google.com/document/d/1l-FFlfC3MnyJuHP9edjqS0MlZKIGpHhVreaT1SQ3Yh0/edit?tab=t.qb6zy7k2ldcg)
 
+## Documentos
+
+- [Diapositiva Canva](https://www.canva.com/design/DAGvHs6IvIQ/nuhe8c2LY1PPWttU9W0XWQ/edit?utm_content=DAGvHs6IvIQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+- [Diagramas ](https://drive.google.com/file/d/1ELQ_5QcN8kzrsVCER_VBLeY0rcjTWtPC/view?usp=drive_link)
+
 ## Requerimientos
 
 ### Funcionales
@@ -139,15 +145,6 @@ Despliegue en nube:
 - RNF17: Se debe habilitar un CDN (Amazon CloudFront) para optimizar la entrega de contenidos estáticos a nivel global.
 
 - RNF18: El despliegue debe integrarse con un pipeline de CI/CD en AWS CodePipeline para automatizar actualizaciones y despliegues.
-
-
-
-
-## Documentos
-
-- [Diapositiva Canva](https://www.canva.com/design/DAGvHs6IvIQ/nuhe8c2LY1PPWttU9W0XWQ/edit?utm_content=DAGvHs6IvIQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
-- [Diagramas Canva](https://www.canva.com/design/DAGyWsPGxuE/7MaLtgtAki10UQBc7ZxlTg/edit?utm_content=DAGyWsPGxuE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Grupo de trabajo - Roles
 > - Samuel Barona -  Developer
