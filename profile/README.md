@@ -23,9 +23,9 @@ El despliegue de la solución se realiza en la nube de AWS, con alta disponibili
 
 ## Documentos
 
-- [Diapositiva Canva](https://www.canva.com/design/DAGvHs6IvIQ/nuhe8c2LY1PPWttU9W0XWQ/edit?utm_content=DAGvHs6IvIQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Diagrama de bloques](https://drive.google.com/file/d/14ifDsEG5BGkfK7ki_c6epfK5MdmucFpF/view?usp=sharing)
 
-- [Diagramas ](https://drive.google.com/file/d/1ELQ_5QcN8kzrsVCER_VBLeY0rcjTWtPC/view?usp=drive_link)
+-![diagrama de software](https://www.mermaidchart.com/app/projects/0239e292-861e-4aba-b394-e2cc5811835f/diagrams/499fd2f5-89ef-4dc0-91b7-08bac9b5de69/share/invite/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkb2N1bWVudElEIjoiNDk5ZmQyZjUtODllZi00ZGMwLTkxYjctMDhiYWM5YjVkZTY5IiwiYWNjZXNzIjoiRWRpdCIsImlhdCI6MTc1ODI4NDQ3Nn0.aPoZnAmwDPp9KIhW4UDtVcsl6_yy5mr_-GXEzCJCHps)
 
 ## Requerimientos
 
